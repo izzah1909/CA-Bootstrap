@@ -1,0 +1,21 @@
+#profile-img {
+    margin-top: 15%;
+}
+
+#main-section {
+    height: 100vh;
+}
+
+#projects-section {
+    min-height: 100vh;
+    background-color: beige;
+    padding-bottom: 50px;
+}
+
+#copyright {
+    margin-left: 40%;
+    padding-top: 10px;
+}
+
+
+
